@@ -8,6 +8,23 @@ Any system has basically these components:
 6. Communication
 ```
 
+#### Types of Databases:
+   * In-memory
+   * Disk Based
+   * Server'ed
+   * Embedded
+   * Row based
+   * Columnar
+   * Graph DB
+   * Time series DB
+   * Relational
+   * Non- Relational
+   * Blob storage
+   * Flat file storages
+   * Storages for text-based search
+Benefits of using unix epoch : Handles timezone, fast date comparisions. Uses 4 byte
+Datetime : More date range. 8 byte
+
 1. Database Redundancy \
     -> Stand By \
     -> 1:1 \

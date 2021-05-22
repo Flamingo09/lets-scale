@@ -5,3 +5,7 @@
     
 2. Storage Redundancy \
     -> RAID
+    -> Geo Redundancy \
+    -> Datacenter Redundancy
+    
+3. Serverless architecture

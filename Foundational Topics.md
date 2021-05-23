@@ -13,7 +13,7 @@ Any system has basically these components:
    * In-memory
    * Disk Based
    * Server'ed
-   * Embedded
+   * [Embedded](https://medium.com/walmartglobaltech/https-medium-com-kharekartik-rocksdb-and-embedded-databases-1a0f8e6ea74f)
    * Row based
    * Columnar
    * Graph DB
@@ -54,6 +54,11 @@ Cache eviction policies:
   * LFU
   * Random Replacement
   
-#### Some offbeat topics:
+Types of caching Systems:
+* Write through Cache
+* Write around Cache
+* Write-Back Cache
+
+#### Some extra topics:
 1. Serverless architecture
 2. Elastic Search

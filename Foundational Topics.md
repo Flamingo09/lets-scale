@@ -33,7 +33,7 @@ Datetime : More date range. 8 byte
     
 2. Storage Redundancy \
 
-    -> RAID
+    -> [RAID](https://searchstorage.techtarget.com/definition/RAID) \
     -> Geo Redundancy \
     -> Datacenter Redundancy
     

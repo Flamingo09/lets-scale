@@ -8,7 +8,8 @@ Any system has basically these components:
 6. Communication
 ```
 
-#### Types of Databases:
+#### Database
+##### Types of Databases:
    * In-memory
    * Disk Based
    * Server'ed
@@ -32,9 +33,27 @@ Datetime : More date range. 8 byte
     -> N:N
     
 2. Storage Redundancy \
-
     -> [RAID](https://searchstorage.techtarget.com/definition/RAID) \
     -> Geo Redundancy \
     -> Datacenter Redundancy
-    
-3. Serverless architecture
+
+#### Caching
+##### Types of caching:
+  * Application Server Cache - Request layer cache
+  * Central Cache - Redis. Memcached
+  * Central and Distributed Cache - Sharded data
+  * Content Delivery Network - Akamai, Cloudfare
+  * Next to DB - seamless access and transact
+  * Disk cache, CPU cache, GPU cache
+
+Cache eviction policies:
+  * FIFO
+  * LIFO
+  * LRU
+  * MRU
+  * LFU
+  * Random Replacement
+  
+#### Some offbeat topics:
+1. Serverless architecture
+2. Elastic Search

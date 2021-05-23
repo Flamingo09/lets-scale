@@ -25,7 +25,7 @@ Any system has basically these components:
 Benefits of using unix epoch : Handles timezone, fast date comparisions. Uses 4 byte
 Datetime : More date range. 8 byte
 
-1. Database Redundancy \
+1. [Database Redundancy](https://medium.com/must-know-computer-science/system-design-redundancy-and-replication-e9946aa335ba) \
     -> Stand By \
     -> 1:1 \
     -> N:N

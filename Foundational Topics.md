@@ -31,11 +31,11 @@ Datetime : More date range. 8 byte
     -> Stand By \
     -> 1:1 \
     -> N:N
-    
 2. Storage Redundancy \
     -> [RAID](https://searchstorage.techtarget.com/definition/RAID) \
     -> Geo Redundancy \
     -> Datacenter Redundancy
+3. [Building a Database on S3](https://people.csail.mit.edu/kraska/pub/sigmod08-s3.pdf)
 
 #### Caching
 ##### Types of caching:
